@@ -24,7 +24,7 @@ echo This is your teredo configuration:
 echo.
 netsh interface Teredo show state
 echo.
-echo Resetting server
+echo Resetting servername
 netsh interface Teredo set state servername=default
 echo.
 echo Set Interface as EnterpriseClient
