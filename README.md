@@ -1,4 +1,5 @@
-# Windows 10 TeredoFix script
+<img src="https://i.imgur.com/lEWAQmc.jpg"/>
+
 ## To get your game on again
 NOTE: This script can only fix problems related to your local Teredo config!
 Also check your router settings if it is still not working afterwards.
